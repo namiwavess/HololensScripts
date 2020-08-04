@@ -1,2 +1,1 @@
-# HololensScripts
-HololensScripts using Unity C#
+# HoloLens-Scripts
